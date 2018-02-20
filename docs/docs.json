@@ -1,0 +1,11 @@
+{
+    "files": [
+        [
+            "mcp3201",
+            "mcp3201.py"
+        ]
+    ],
+    "title": "mcp3201",
+    "version": "2.0.8",
+    "copyright":"Zerynth Team"
+}
